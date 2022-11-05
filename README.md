@@ -1,2 +1,2 @@
 # CSC-211
-Intermediate Programming
+Intermediate Programming - Fall - 2022
